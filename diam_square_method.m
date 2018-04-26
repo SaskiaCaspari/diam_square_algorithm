@@ -2,7 +2,9 @@ function diam_square_method(levels, scaling_factor, seed)
 %{
 -------------- Diamond-Square Algorithm ------------------
 This function creates a random surface using the diamond-square algorithm
- and plots the result.
+ and plots the result. The input parameters are the number of iterations
+ of the algorithm (levels), the scaling factor with which the scale changes
+ in each iteration and the seed value for the random number generation.
 %}
 
     mat_dim = 2;    % initial matrix dimensions are 2x2
