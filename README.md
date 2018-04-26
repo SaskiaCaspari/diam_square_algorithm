@@ -24,3 +24,7 @@ on each level, defines the corner points of the current square that is considere
 procedure to calculate midpoints and edges.
 
 ![Diagram2](https://github.com/SaskiaCaspari/diam_square_algorithm/blob/master/media/diam2.JPG)
+
+The resulting plot might look like this:
+
+![Surface](https://github.com/SaskiaCaspari/diam_square_algorithm/blob/master/media/randsurface.png)
